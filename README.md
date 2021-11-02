@@ -27,3 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiotaku2003&show_icons=true&locale=en&theme=radical" alt="daiotaku2003" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daiotaku2003&show_icons=true&locale=en&theme=radical" alt="daiotaku2003" /></p>
+
+<h3 align="left">Top repositories:</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiotaku2003&repo=Adventure-Time)](https://github.com/anuraghazra/github-readme-stats)
