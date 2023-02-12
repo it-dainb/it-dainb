@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daiotaku2003&label=Profile%20views&color=0e75b6&style=flat" alt="daiotaku2003" /> </p>
 
-- 🔭 I’m currently working on [2D Game Engine C++](https://github.com/DAIOTAKU2003/No-Name)
+- 🔭 I’m currently working on [2D Game Engine C++](https://github.com/it-dainb/No-Name)
 
 - 🌱 I’m currently learning **everything** :3
 
 - 👯 I’m looking to collaborate with everyone
 
-- 👨‍💻 All of my projects are available [here](https://github.com/DAIOTAKU2003?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/it-dainb?tab=repositories)
 
 - 💬 Ask me about **everything**
 
