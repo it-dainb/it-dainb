@@ -24,10 +24,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiotaku2003&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="daiotaku2003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it-dainb&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="daiotaku2003" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daiotaku2003&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="daiotaku2003" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=it-dainb&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="daiotaku2003" /></p>
 
 <h3 align="left">Top repositories:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiotaku2003&repo=Adventure-Time&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-dainb&repo=Adventure-Time&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
